@@ -1,0 +1,6 @@
+".\Objects\main.obj",
+".\Objects\delay.obj",
+".\Objects\lcd.obj",
+".\Objects\keypad.obj" 
+TO ".\Objects\otp_generation" 
+PRINT(".\Listings\otp_generation.m51") RAMSIZE(256) 
